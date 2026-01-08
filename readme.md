@@ -1,3 +1,3 @@
-fruit
-vegg
-stuff
+- veg
+- fruit
+- stuff
